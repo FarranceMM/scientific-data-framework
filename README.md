@@ -20,7 +20,7 @@ Conducted data cleansing and pre-processing, which improve data quality by 70%.
 ### Projects
 Developed sales prediction using Python: [click here to download](https://github.com/FarranceMM/scientific-data-framework/blob/main/Python%20Sales%20Project%20.ipynb)
 
-Used big data tools such as MySQL to analyse an employee-salary database : [click here to download]()
+Used big data tools such as MySQL to analyse an employee-salary database : [click here to download](https://github.com/FarranceMM/scientific-data-framework/blob/main/EmployeeSalary%20Project.sql)
 
 Developed social media usage by each country using R: [click here to download](https://github.com/FarranceMM/scientific-data-framework/blob/main/R%20Project%20Social%20Media%20Usage.R)
 
